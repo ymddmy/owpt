@@ -1,2 +1,2 @@
 # owpt
-Outer Wilds Pomodolo Timer
+Outer Wilds Pomodoro Timer
